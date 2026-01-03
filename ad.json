@@ -1,0 +1,42 @@
+[
+  {
+    "title": "🚀 Browser Update Available",
+    "description": "Version 2.0 with new features is ready!",
+    "icon": "🚀",
+    "action_text": "Update Now",
+    "action_url": "https://your-website.com/update",
+    "bg_color": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "title": "🎨 Custom Themes",
+    "description": "Personalize your browser with beautiful themes",
+    "icon": "🎨",
+    "action_text": "Browse Themes",
+    "action_url": "https://your-website.com/themes",
+    "bg_color": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)"
+  },
+  {
+    "title": "🔒 Privacy Guard Enabled",
+    "description": "Your privacy is protected. Click to see details.",
+    "icon": "🔒",
+    "action_text": "View Details",
+    "action_url": "https://your-website.com/privacy",
+    "bg_color": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)"
+  },
+  {
+    "title": "⚡ Performance Tips",
+    "description": "Learn how to make your browser faster",
+    "icon": "⚡",
+    "action_text": "Learn More",
+    "action_url": "https://your-website.com/tips",
+    "bg_color": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)"
+  },
+  {
+    "title": "❤️ Support Development",
+    "description": "Help us improve the browser with your feedback",
+    "icon": "❤️",
+    "action_text": "Give Feedback",
+    "action_url": "https://your-website.com/feedback",
+    "bg_color": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)"
+  }
+]
